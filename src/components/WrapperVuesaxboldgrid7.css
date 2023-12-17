@@ -1,0 +1,17 @@
+.vuesaxboldgrid-7-icon {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 2px;
+  transform: scale(1.667);
+}
+.wrapper-vuesaxboldgrid-7 {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
